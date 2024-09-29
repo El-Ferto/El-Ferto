@@ -2,7 +2,8 @@
 
 ## Acerca de mi
 
-Empezando el camino de la programacion y el Quality Assurance testing
+Empezando el camino de la programacion y el **Quality Assurance testing**.
+Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **GIT** con sus comandos basicos.
 
 ## Contactame
 
