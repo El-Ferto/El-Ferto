@@ -8,3 +8,9 @@ Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **G
 ## Contactame
 
 Fer.santos91@gmail.com
+
+## Technologies
+
+- Pseint
+- Assembler
+- Logica de programacion 
