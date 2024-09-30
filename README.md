@@ -9,7 +9,6 @@ Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **G
 
 Fer.santos91@gmail.com
 
-<<<<<<< HEAD
 ## Languages
 
 - Spanish
@@ -33,5 +32,3 @@ Fer.santos91@gmail.com
 - jogging
 - Travel
 - Cooking
-
->>>>>>> 35f20d6ad75244cbba94f54ddc5221b37cc14856
