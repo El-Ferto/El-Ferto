@@ -11,6 +11,6 @@ Fer.santos91@gmail.com
 
 ## Languages
 
--Spanish
--English
--Italian
+- Spanish
+- English
+- Italian
