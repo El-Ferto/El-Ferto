@@ -9,8 +9,16 @@ Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **G
 
 Fer.santos91@gmail.com
 
+
 ## Technologies
 
 - Pseint
 - Assembler
 - Logica de programacion 
+
+## Hobbies
+
+- Videogames
+- jogging
+- Travel
+- Cooking
