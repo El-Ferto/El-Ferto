@@ -1,10 +1,34 @@
-# Hola! soy Fernando QA Tester
+# Hello! I'm Fernando QA Tester
 
-## Acerca de mi
+## About me
 
-Empezando el camino de la programacion y el **Quality Assurance testing**.
-Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **GIT** con sus comandos basicos.
+Begining the journey of programing, especifically **Quality Assurance testing**.
+Learning basic concepts **pseint** , right now learning to use  **GIT** and **GITHUB** with his basic comands.
 
-## Contactame
+## Contact me
 
 Fer.santos91@gmail.com
+
+## Technologies
+
+- Pseint
+- Assembler
+- Logica de programacion 
+
+## Skills
+
+- Management
+- supervisor
+
+## Languages
+
+- Spanish
+- English
+- Italian
+
+## Hobbies
+
+- Videogames
+- jogging
+- Travel
+- Cooking
