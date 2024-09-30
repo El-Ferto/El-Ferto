@@ -9,12 +9,6 @@ Practicando conceptos basicos en **pseint** y ahora mismo aprendiendo a usar **G
 
 Fer.santos91@gmail.com
 
-## Languages
-
-- Spanish
-- English
-- Italian
-
 ## Technologies
 
 - Pseint
@@ -25,6 +19,12 @@ Fer.santos91@gmail.com
 
 - Management
 - supervisor
+
+## Languages
+
+- Spanish
+- English
+- Italian
 
 ## Hobbies
 
